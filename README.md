@@ -8,7 +8,6 @@ Soyle supports the following languages:
 
 | Language | Language Code | Training Data | Additional Links |
 |----------|---------------|---------------|------------------|
-
 | Azerbaijani | az | CVC 13.0, FLEURs | |
 | Bashkir | ba | CVC 13.0 | |
 | Chuvash | cv | CVC 13.0 | |
@@ -102,6 +101,11 @@ After you prepare your dataset and update your tokenization file, run the follow
 torchrun --nnodes 1 --nproc_per_node 4 train.py --data_path path_to_json_files 
 ```
 
+## Citation
+@Article{to-be-published,
+AUTHOR = {Mussakhojayeva, Saida and Gulmillin, Rinat and Orel, Daniil and Khakimov, Bulat and Abilbekov, Adal and Galimov, Mansur and Varol, Huseyin Atakan},
+TITLE = {Söyle: Noise Robust Multilingual Speech Recognition with Long Transcription Featuring the Tatar Speech Corpus},
+}
 
 
 
