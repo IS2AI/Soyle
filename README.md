@@ -14,7 +14,7 @@ Soyle supports the following languages:
 | Kazakh | kk | CVC 13.0, KSC2 |  [Download KSC2](https://docs.google.com/forms/d/e/1FAIpQLSf_usCjxTvbH_2xhA6slH9FAfjrYVd4OHnr-CUcVVW3TEAscg/viewform) | 
 | Kyrgyz | ky | CVC 13.0 | |
 | Sakha | sh | CVC 13.0 | |
-| Tatar | tt | CVC 13.0, TatSC (<a href="link-to-tatsc"><b>download</b></a>) | [Download TatSC](link-to-be) | 
+| Tatar | tt | CVC 13.0, TatSC | [Download TatSC](link-to-be) | 
 | Turkish | tr | CVC 13.0, TSC | [Download TSC](https://docs.google.com/forms/d/e/1FAIpQLSeqOficzzzIEEnJU4Am-JBdty3V6rYERtE2mv5mVD1WpiOZkw/viewform) |  
 | Turkmen | tk | CVC 13.0 | |
 | Uyghur | ug | CVC 13.0 | |
