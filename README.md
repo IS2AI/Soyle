@@ -29,7 +29,7 @@ Soyle supports the following languages:
 Notes:
 - CVC 13.0 refers to [Common Voice dataset version 13.0](https://commonvoice.mozilla.org/en/datasets).
 - FLEURs can be accessed [here](https://huggingface.co/datasets/google/fleurs).
-.
+
 ## Quickstart: Run Inference
 
 ```python
@@ -102,11 +102,12 @@ torchrun --nnodes 1 --nproc_per_node 4 train.py --data_path path_to_json_files
 ```
 
 ## Citation
+```bibtex
 @Article{to-be-published,
 AUTHOR = {Mussakhojayeva, Saida and Gulmillin, Rinat and Orel, Daniil and Khakimov, Bulat and Abilbekov, Adal and Galimov, Mansur and Varol, Huseyin Atakan},
 TITLE = {Söyle: Noise Robust Multilingual Speech Recognition with Long Transcription Featuring the Tatar Speech Corpus},
 }
-
+```
 
 
 
