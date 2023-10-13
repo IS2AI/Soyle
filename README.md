@@ -1,6 +1,7 @@
 # Söyle
 
-This repository presents a demo, pre-trained models, and training code for our paper titled "Söyle: Noise Robust Multilingual Speech Recognition with Long Transcription Featuring the Tatar Speech Corpus". You can see the full paper [here](link-to-be).
+This repository presents a demo, pre-trained models, and training code for our paper titled "Söyle: Noise Robust Multilingual Speech Recognition with Long Transcription Featuring the Tatar Speech Corpus". You can see the full paper [here](link-to-be). 
+
 
 ## Available Languages
 
@@ -101,10 +102,12 @@ After you prepare your dataset and update your tokenization file, run the follow
 torchrun --nnodes 1 --nproc_per_node 4 train.py --data_path path_to_json_files 
 ```
 
-## Citation
+## Authors and Citation
+The project has been developed in academic collaboration between [ISSAI](https://issai.nu.edu.kz/) and Institute of [Applied Semiotics of Tatarstan Academy of Sciences](https://www.antat.ru/ru/ips/)
+
 ```bibtex
 @Article{to-be-published,
-AUTHOR = {Mussakhojayeva, Saida and Gulmillin, Rinat and Orel, Daniil and Khakimov, Bulat and Abilbekov, Adal and Galimov, Mansur and Varol, Huseyin Atakan},
+AUTHOR = {Mussakhojayeva, Saida and Gilmullin, Rinat and Orel, Daniil and Khakimov, Bulat and Abilbekov, Adal and Galimov, Mansur and Varol, Huseyin Atakan},
 TITLE = {Söyle: Noise Robust Multilingual Speech Recognition with Long Transcription Featuring the Tatar Speech Corpus},
 }
 ```
