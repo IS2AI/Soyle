@@ -103,7 +103,7 @@ torchrun --nnodes 1 --nproc_per_node 4 train.py --data_path path_to_json_files
 ```
 
 ## Authors and Citation
-The project has been developed in academic collaboration between [ISSAI](https://issai.nu.edu.kz/) and Institute of [Applied Semiotics of Tatarstan Academy of Sciences](https://www.antat.ru/ru/ips/)
+The project has been developed in academic collaboration between [ISSAI](https://issai.nu.edu.kz/) and [Institute of Applied Semiotics of Tatarstan Academy of Sciences](https://www.antat.ru/ru/ips/)
 
 ```bibtex
 @Article{to-be-published,
