@@ -12,14 +12,14 @@ Soyle supports the following languages:
 | Azerbaijani | az | CVC 13.0, FLEURs | |
 | Bashkir | ba | CVC 13.0 | |
 | Chuvash | cv | CVC 13.0 | |
-| Kazakh | kk | CVC 13.0, KSC2 |  [Download KSC2](https://docs.google.com/forms/d/e/1FAIpQLSf_usCjxTvbH_2xhA6slH9FAfjrYVd4OHnr-CUcVVW3TEAscg/viewform) | 
+| Kazakh | kk | CVC 13.0, KSC2 |  [Download KSC2](https://huggingface.co/datasets/issai/Kazakh_Speech_Corpus_2) | 
 | Kyrgyz | ky | CVC 13.0 | |
 | Sakha | sh | CVC 13.0 | |
-| Tatar | tt | CVC 13.0, TatSC | [Download TatSC](https://docs.google.com/forms/u/0/d/1M9ZOP1PEQc5fv-mMLZr-K627vIYD6-po72okrxx0uCU/viewform) | 
-| Turkish | tr | CVC 13.0, TSC | [Download TSC](https://docs.google.com/forms/d/e/1FAIpQLSeqOficzzzIEEnJU4Am-JBdty3V6rYERtE2mv5mVD1WpiOZkw/viewform) |  
+| Tatar | tt | CVC 13.0, TatSC | [Download TatSC](https://huggingface.co/datasets/issai/tatar-speech-commands) | 
+| Turkish | tr | CVC 13.0, TSC | [Download TSC](https://huggingface.co/datasets/issai/Turkish_Speech_Corpus) |  
 | Turkmen | tk | CVC 13.0 | |
 | Uyghur | ug | CVC 13.0 | |
-| Uzbek | uz | CVC 13.0, USC | [Download USC](https://docs.google.com/forms/d/e/1FAIpQLSeWhxsVe0WlGSQ459sq6--pAqYyEWTI2K6X8UrF357GUvnDQA/viewform) | 
+| Uzbek | uz | CVC 13.0, USC | [Download USC](https://huggingface.co/datasets/issai/Uzbek_Speech_Corpus) | 
 | Arabic | ar | CVC 13.0 | |
 | English | en | CVC 13.0 | |
 | Spanish | es | CVC 13.0 | |
