@@ -15,7 +15,7 @@ Soyle supports the following languages:
 | Kazakh | kk | CVC 13.0, KSC2 |  [Download KSC2](https://huggingface.co/datasets/issai/Kazakh_Speech_Corpus_2) | 
 | Kyrgyz | ky | CVC 13.0 | |
 | Sakha | sh | CVC 13.0 | |
-| Tatar | tt | CVC 13.0, TatSC | [Download TatSC](https://huggingface.co/datasets/issai/tatar-speech-commands](https://huggingface.co/datasets/issai/TatSC) | 
+| Tatar | tt | CVC 13.0, TatSC | [Download TatSC](https://huggingface.co/datasets/issai/TatSC) | 
 | Turkish | tr | CVC 13.0, TSC | [Download TSC](https://huggingface.co/datasets/issai/Turkish_Speech_Corpus) |  
 | Turkmen | tk | CVC 13.0 | |
 | Uyghur | ug | CVC 13.0 | |
