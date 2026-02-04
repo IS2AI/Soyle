@@ -106,10 +106,16 @@ torchrun --nnodes 1 --nproc_per_node 4 train.py --data_path path_to_json_files
 The project has been developed in academic collaboration between [ISSAI](https://issai.nu.edu.kz/) and [Institute of Applied Semiotics of Tatarstan Academy of Sciences](https://www.antat.ru/ru/ips/)
 
 ```bibtex
-@Article{to-be-published,
-AUTHOR = {Mussakhojayeva, Saida and Gilmullin, Rinat and Orel, Daniil and Khakimov, Bulat and Abilbekov, Adal and Galimov, Mansur and Varol, Huseyin Atakan},
-TITLE = {Söyle: Noise Robust Multilingual Speech Recognition with Long Transcription Featuring the Tatar Speech Corpus},
-}
+@INPROCEEDINGS{10463419,
+  author={Mussakhojayeva, Saida and Gilmullin, Rinat and Khakimov, Bulat and Galimov, Mansur and Orel, Daniil and Abilbekov, Adal and Varol, Huseyin Atakan},
+  booktitle={2024 International Conference on Artificial Intelligence in Information and Communication (ICAIIC)}, 
+  title={Noise-Robust Multilingual Speech Recognition and the Tatar Speech Corpus}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={732-737},
+  keywords={Codes;Buildings;Focusing;Speech recognition;Noise robustness;Automatic speech recognition},
+  doi={10.1109/ICAIIC60209.2024.10463419}}
 ```
 
 
